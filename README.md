@@ -1,9 +1,9 @@
 <html lang="en-US">
 	  <body>
-	<section class="page-header">
+	<section class="page-header" align = "center">
       <h1 class="project-name" align = "center"><strong>Lizaveta Novik</strong></h1>
-        <a href="https://github.com/lizanovik/lizanovik.github.io" class="btn" align = "center">View on GitHub</a>
-		<p><img src="photo.JPG" height="255" align = "center"></p>
+        <a href="https://github.com/lizanovik/lizanovik.github.io" class="btn">View on GitHub</a>
+		<p><img src="photo.JPG" height="255" ></p>
 		</section>
  <section class="main-content">
 <table width="100%" cellspacing="0" cellpadding="5">
