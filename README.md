@@ -2,8 +2,8 @@
 	  <body>
 	<section class="page-header" align = "center">
       <h1 class="project-name" align = "center"><strong>Lizaveta Novik</strong></h1>
-       <p> <a href="https://github.com/lizanovik/lizanovik.github.io" class="btn">View on GitHub</a>align = "center"</p>
-		<p><img src="photo.JPG" height="255" >align = "center"</p>
+       <p align = "center"> <a href="https://github.com/lizanovik/lizanovik.github.io" class="btn">View on GitHub</a></p>
+		<p align = "center"><img src="photo.JPG" height="255" ></p>
 		</section>
  <section class="main-content">
 <table width="100%" cellspacing="0" cellpadding="5">
