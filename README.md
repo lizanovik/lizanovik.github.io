@@ -51,6 +51,24 @@ So, I’m here, doing self-education and trying to break into an adult world.
 		<li> <a href="https://www.codewars.com/users/liza_novik" class="btn">My Codewars Profile</a></li>
 		<li><a href="https://github.com/lizanovik?tab=repositories" class="btn">My Github Repositories</a></li>
 	</ul>
+	 <p><strong>PadawansTask: </strong></p>
+	 <ol>
+		<li> <a href="https://github.com/lizanovikfancycalc"</a></li>
+		<li> <a href="https://github.com/lizanovik/padawanstask1"</a></li>
+		<li> <a href="https://github.com/lizanovik/padawanstask2"</a></li>
+		<li> <a href="https://github.com/lizanovik/padawanstask3"</a></li>
+		<li> <a href="https://github.com/lizanovik/padawanstask4"</a></li>
+		<li> <a href="https://github.com/lizanovik/padawanstask5"</a></li>
+		<li> <a href="https://github.com/lizanovik/padawanstask6"</a></li>
+		<li> <a href="https://github.com/lizanovik/padawanstask7"</a></li>
+		<li> <a href="https://github.com/lizanovik/padawanstask8"</a></li>
+		<li> <a href="https://github.com/lizanovik/padawanstask9"</a></li>
+		<li> <a href="https://github.com/lizanovik/padawanstask10"</a></li>
+		<li> <a href="https://github.com/lizanovik/padawanstask11"</a></li>
+		<li> <a href="https://github.com/lizanovik/padawanstask12"</a></li>
+		<li> <a href="https://github.com/lizanovik/padawanstask13"</a></li>
+		<li> <a href="https://github.com/lizanovik/padawanstask15"</a></li>
+	</ol>
 </section>
 </body>
 </html>
