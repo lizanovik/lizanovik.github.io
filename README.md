@@ -53,7 +53,7 @@ So, I’m here, doing self-education and trying to break into an adult world.
 	</ul>
 	 <p><strong>PadawansTask: </strong></p>
 	 <ul>
-		<li> <a href="https://github.com/lizanovikfancycalc" class="btn">FancyCalc</a></li>
+		<li> <a href="https://github.com/lizanovik/FancyCalc" class="btn">FancyCalc</a></li>
 		<li> <a href="https://github.com/lizanovik/padawanstask1" class="btn">PadawansTask1</a></li>
 		<li> <a href="https://github.com/lizanovik/padawanstask2" class="btn">PadawansTask2</a></li>
 		<li> <a href="https://github.com/lizanovik/padawanstask3" class="btn">PadawansTask3</a></li>
