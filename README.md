@@ -50,6 +50,7 @@ So, I’m here, doing self-education and trying to break into an adult world.
 	 <ul>
 		<li> <a href="https://www.codewars.com/users/liza_novik" class="btn">My Codewars Profile</a></li>
 		<li><a href="https://github.com/lizanovik?tab=repositories" class="btn">My Github Repositories</a></li>
+		 <li><a href="https://github.com/lizanovik/Top20FibonacciSequence" class="btn">Basic Collections</a></li>
 	</ul>
 	 <p><strong>PadawansTask: </strong></p>
 	 <ul>
