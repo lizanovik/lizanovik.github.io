@@ -51,6 +51,8 @@ So, I’m here, doing self-education and trying to break into an adult world.
 		<li> <a href="https://www.codewars.com/users/liza_novik" class="btn">My Codewars Profile</a></li>
 		<li><a href="https://github.com/lizanovik?tab=repositories" class="btn">My Github Repositories</a></li>
 		 <li><a href="https://github.com/lizanovik/Top20FibonacciSequence" class="btn">Basic Collections</a></li>
+		 <li><a href="https://github.com/lizanovik/TicTacToe" class="btn">TicTacToe</a></li>
+		 <li><a href="https://github.com/lizanovik/HexToRgb" class="btn">HexToRgb Codewars Kata</a></li>
 	</ul>
 	 <p><strong>PadawansTask: </strong></p>
 	 <ul>
