@@ -47,6 +47,7 @@ So, I’m here, doing self-education and trying to break into an adult world.
 		because it is an integral step between your childhood and adult life.</li>
 	</ul>
 	<h2><strong>My achievements: </strong></h2>
+	 <h3><strong>Online stage: </strong></h3>
 	 <ul>
 		<li> <a href="https://www.codewars.com/users/liza_novik" class="btn">My Codewars Profile</a></li>
 		<li><a href="https://github.com/lizanovik?tab=repositories" class="btn">My Github Repositories</a></li>
@@ -72,6 +73,10 @@ So, I’m here, doing self-education and trying to break into an adult world.
 		<li> <a href="https://github.com/lizanovik/padawanstask13" class="btn">PadawansTask13</a></li>
 		<li> <a href="https://github.com/lizanovik/padawanstask15" class="btn">PadawansTask15</a></li>
 	</ul>
+	 <h3><strong>Offline stage: </strong></h3>
+	 <ul>
+		 <li> <a href="https://github.com/lizanovik/NET1.S.2019.Novik.01" class="btn">Day1</a></li>
+	 </ul>
 </section>
 </body>
 </html>
