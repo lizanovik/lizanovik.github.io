@@ -57,21 +57,7 @@ So, I’m here, doing self-education and trying to break into an adult world.
 	</ul>
 	 <p><strong>PadawansTask: </strong></p>
 	 <ul>
-		<li> <a href="https://github.com/lizanovik/FancyCalc" class="btn">FancyCalc</a></li>
-		<li> <a href="https://github.com/lizanovik/padawanstask1" class="btn">PadawansTask1</a></li>
-		<li> <a href="https://github.com/lizanovik/padawanstask2" class="btn">PadawansTask2</a></li>
-		<li> <a href="https://github.com/lizanovik/padawanstask3" class="btn">PadawansTask3</a></li>
-		<li> <a href="https://github.com/lizanovik/padawanstask4" class="btn">PadawansTask4</a></li>
-		<li> <a href="https://github.com/lizanovik/padawanstask5" class="btn">PadawansTask5</a></li>
-		<li> <a href="https://github.com/lizanovik/padawanstask6" class="btn">PadawansTask6</a></li>
-		<li> <a href="https://github.com/lizanovik/padawanstask7" class="btn">PadawansTask7</a></li>
-		<li> <a href="https://github.com/lizanovik/padawanstask8" class="btn">PadawansTask8</a></li>
-		<li> <a href="https://github.com/lizanovik/padawanstask9" class="btn">PadawansTask9</a></li>
-		<li> <a href="https://github.com/lizanovik/padawanstask10" class="btn">PadawansTask10</a></li>
-		<li> <a href="https://github.com/lizanovik/padawanstask11" class="btn">PadawansTask11</a></li>
-		<li> <a href="https://github.com/lizanovik/padawanstask12" class="btn">PadawansTask12</a></li>
-		<li> <a href="https://github.com/lizanovik/padawanstask13" class="btn">PadawansTask13</a></li>
-		<li> <a href="https://github.com/lizanovik/padawanstask15" class="btn">PadawansTask15</a></li>
+		<li> <a href="https://github.com/lizanovik/PadawansTasks" class="btn">Padawans Tasks</a></li>
 	</ul>
 	 <h3><strong>Offline stage: </strong></h3>
 	 <ul>
