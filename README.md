@@ -75,7 +75,7 @@ So, I’m here, doing self-education and trying to break into an adult world.
 	</ul>
 	 <h3><strong>Offline stage: </strong></h3>
 	 <ul>
-		 <li> <a href="https://github.com/lizanovik/NET1.S.2019.Novik.01" class="btn">Day1</a></li>
+		 <li> <a href="https://github.com/lizanovik/NET1.S.2019.Novik" class="btn">Days</a></li>
 	 </ul>
 </section>
 </body>
